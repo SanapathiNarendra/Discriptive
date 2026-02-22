@@ -1,1 +1,23 @@
+.login-button{
+    margin-top:20px;
+    height:30px;
+    background-color: rgb(140, 37, 236);
+    color:white;
+    border:none;
+    border-radius:5px;
+}
+.label-name{
+    font-weight:bold;
 
+}
+.input-field{
+    height:25px;
+    padding:25px;
+}
+.login-block{
+    color:black;
+    background-color: rgb(255, 20, 20);
+    padding: 30px;
+    margin: 25px;
+    margin :auto;
+}
